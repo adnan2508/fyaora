@@ -192,7 +192,7 @@ export default function SidebarFilters() {
       <div className="flex justify-center items-centerspace-y-3">
         <button
           onClick={handleFilter}
-          className="rounded-full bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 transition shadow-2xl"
+          className="rounded-full bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 transition shadow-3xl"
         >
           Filter
         </button>
